@@ -1,2 +1,2 @@
-<h1 href="t.me/dilmuratserik" style="width:100px">Hi,there!</h1>
+<h3 href="t.me/dilmuratserik" style="color:purple">Hi,there!</h1>
 
